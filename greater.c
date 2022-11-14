@@ -11,7 +11,7 @@ void main()
 	if (a>b && a>c)
 		printf("A is Greater");
 
-	else if("b>c")
+	else if(b>c)
 		printf("B is Greater");
 
 	else
